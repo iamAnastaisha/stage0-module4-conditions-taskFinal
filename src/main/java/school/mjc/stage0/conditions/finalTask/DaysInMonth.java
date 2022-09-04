@@ -27,7 +27,7 @@ public class DaysInMonth {
                 System.out.println(30);
                 break;
             default:
-                System.out.println("Wrong month number");
+                System.out.println("invalid date");
                 break;
         }
     }
